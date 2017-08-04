@@ -1,0 +1,20 @@
+{
+  "name": "ask-simple-loading",
+  "homepage": "https://github.com/kvarunsameer/ask-simple-loading",
+  "authors": [
+    "kvarunsameer <kvarunsameer@gmail.com>"
+  ],
+  "description": "Simple loading",
+  "main": "",
+  "keywords": [
+    "{{site.project_title}}"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
