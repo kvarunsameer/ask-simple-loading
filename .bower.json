@@ -1,0 +1,30 @@
+{
+  "name": "ask-simple-loading",
+  "homepage": "https://github.com/kvarunsameer/ask-simple-loading",
+  "authors": [
+    "kvarunsameer <kvarunsameer@gmail.com>"
+  ],
+  "description": "Simple loading",
+  "main": "",
+  "keywords": [
+    "{{site.project_title}}"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "f646da7346",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "f646da7346d4e9e0074786584184205ddb834e38"
+  },
+  "_source": "https://github.com/kvarunsameer/ask-simple-loading.git",
+  "_target": "*",
+  "_originalSource": "ask-simple-loading",
+  "_direct": true
+}
